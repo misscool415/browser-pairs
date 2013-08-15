@@ -120,7 +120,7 @@ body {
 .fm {
   background-image: url("http://www.funnypica.com/wp-content/uploads/2012/07/Funny-Large-Baby-Teeths.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: contain;g
 }
 
 /* The #gameIntro element holds the screen that shows when you start the app */
