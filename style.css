@@ -106,19 +106,19 @@ body {
 }
 
 .ns {
-  background-image: url(./images/ns.png);
+  background-image: url("http://lolshout.com/wp-content/uploads/2012/10/funny-kids.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .tb {
-  background-image: url(./images/tb.png);
+  background-image: url("http://1.bp.blogspot.com/-Q8lGYgIIC2I/UDdkLuwOp3I/AAAAAAAAAMw/LZKkUlmy3jc/s320/funny-kids_8676_1.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .fm {
-  background-image: url(./images/fm.png);
+  background-image: url("http://www.funnypica.com/wp-content/uploads/2012/07/Funny-Large-Baby-Teeths.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
